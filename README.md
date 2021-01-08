@@ -1,4 +1,4 @@
-## Curated list of important links for Computer Enggineering students.
+## Curated list of important links for Computer Engineering students.
 * https://www.hackerrank.com/
 * https://www.ambitionbox.com/
 * https://leetcode.com/
