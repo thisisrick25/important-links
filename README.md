@@ -14,3 +14,8 @@
 * https://www.urionlinejudge.com.br/
 * https://challenges.reply.com/tamtamy/home.action
 * https://www.kaggle.com/
+* https://www.geeksforgeeks.org/
+* https://www.tutorialspoint.com/
+* https://www.careercup.com/
+* https://www.interviewbit.com/
+* https://www.indiabix.com/
