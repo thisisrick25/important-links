@@ -1,0 +1,16 @@
+* https://www.hackerrank.com/
+* https://www.ambitionbox.com/
+* https://leetcode.com/
+* https://projecteuler.net/
+* https://www.spoj.com/
+* https://codeforces.com/
+* https://www.topcoder.com/
+* https://www.codechef.com/
+* https://www.codewars.com/
+* https://www.coderbyte.com/
+* https://www.hackerearth.com/
+* https://codegym.cc/
+* https://www.codingame.com/
+* https://www.urionlinejudge.com.br/
+* https://challenges.reply.com/tamtamy/home.action
+* https://www.kaggle.com/
